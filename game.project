@@ -1,0 +1,22 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[script]
+shared_state = 1
+
+[display]
+width = 640
+height = 1136
+
+[project]
+title = twinedialogueexample
+dependencies = http://www.defold.com/p/52269/126639/archive,https://github.com/britzl/defold-richtext/archive/master.zip
+custom_resources = assets/dialog.json
+bundle_resources = 
+
+[library]
+include_dirs = 
+
+[resource]
+uri = 
+
